@@ -1,6 +1,10 @@
 # ZChat - Real-Time Chat Application
 
 
+
+https://github.com/user-attachments/assets/9b9ba55a-8fc7-4932-a809-5977734c53aa
+
+
 ZChat is a modern, real-time chat application built using the MERN stack (MongoDB, Express, React, and Node.js) with Socket.IO for real-time messaging. The application supports user authentication, private messaging, and displays users in real-time with a clean and modern UI.
 
 ## Tech Stack
